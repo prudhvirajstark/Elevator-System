@@ -21,7 +21,7 @@ Just run the following command:
 * clone the project 
 ```sh
 git clone https://github.com/prudhvirajstark/Elevator-System.git
-
+cd Elevator-System
 ```
 * Execute the below commands inside the git repository
 ```sh
